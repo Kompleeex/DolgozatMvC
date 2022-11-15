@@ -1,0 +1,23 @@
+{
+    "konyv":[{
+        "id":1,
+        "cim": "Pál utcai fiuk",
+        "szerző": "Molnár Ferenc",
+        "darab":50
+    },
+
+    {
+        "id": 2,
+        "cim": "Programozás rejtelmei",
+        "szerző": "Gipsz Jakab",
+        "darab":50
+    },
+
+    {
+        "id": 3,
+        "cim":"veszedelmek éjszakája",
+        "szerző": "Szabó Benedek",
+        "darab":50 
+    }
+]
+}

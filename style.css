@@ -1,0 +1,26 @@
+.konyvTarolo{
+
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    color: aliceblue;
+    background-color: rgb(87, 87, 87);
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+}
+
+.FoTárolo{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    border: 1px solid red;
+    width: 1000px;
+    height: 500px;
+    
+}
+
+body{
+    background-color: rgb(153, 153, 153);
+}
